@@ -1,0 +1,7 @@
+﻿Name,Quantity,Component
+"U1",1," Arduino Uno R3"
+"S1",1," Pushbutton"
+"R2",1,"100 Ω Resistor"
+"D1",1,"Red LED"
+"Digit1",1,"Cathode 7 Segment Display"
+"R3, R4",2,"230 Ω Resistor"
